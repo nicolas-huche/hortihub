@@ -1,0 +1,10 @@
+services:
+  app:
+    build:
+      context: .
+    container_name: hortihub
+    working_dir: /workspace
+    volumes:
+      - .:/workspace
+    stdin_open: true
+    tty: true
