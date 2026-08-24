@@ -1,4 +1,4 @@
-# Payment
+# Payment and Policies
 
 How is a purchase paid?
 
@@ -10,11 +10,11 @@ How is a purchase paid?
 
 ## Business Rules
 
-- The Marketplace retains the money of an order until the Seller accept it.
+- The Marketplace retains the money from an order until the Seller accepts it.
 - The Seller has 1 hour to accept the order.
-- If the Seller refuses the order, the money go back to the Buyer and the Seller suffers a penality.
-- If 1 hour pass and the Seller didn't refuse or accept, the money go back to the Buyer and the Seller suffers a penality.
-- If the Seller accept the Order, and later informs that he will not be able to delivery it, the money go back to the Buyer and the Seller suffers a penality.
-- If the Seller accept the Order and didn't delivery it, the Seller gets ban and the money go back to the Buyer plus a free reorder.
+- If the Seller refuses the order, the money is returned to the Buyer and the Seller may suffers a penalty.
+- If 1 hour after the Order is created passes and the Seller neither refuses nor accepts the order, the money is returned to the Buyer and the Seller suffers a penalty.
+- If the Seller accepts the Order and later informs the Marketplace that they will not be able to deliver it, the money is returned to the Buyer and the Seller suffers a penalty.
+- If the Seller accepts the Order and does not deliver it, the Seller may be banned, and the money is returned to the Buyer along with a free reorder.
 - A Payment must cover the total amount of the Order.
 - A Payment must be completed before the Order can be fulfilled.
