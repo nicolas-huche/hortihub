@@ -1,12 +1,6 @@
-# Payment and Policies
+# Marketplace Guarantee
 
-How is a purchase paid?
-
-## Payment
-
-- Order
-- Total Amount
-- Status
+How does the Marketplace protect Buyers when Sellers fail to fulfill an Order?
 
 ## Business Rules
 
